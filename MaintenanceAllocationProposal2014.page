@@ -30,7 +30,7 @@ N~remaining~ = N - N~PlannedProjects~
   
 Remember that Planned Projects stage money is allocated for later in the year, and contended for by both houses, through an application process.  Thus, it does not get divided yet between the houses; it just gets set aside right now.  
 
-##Step 2 : Allocate the remaining Stage 1 money "per head" between the houses.  
+##Step 2 : Allocate the remaining money "per head" between the houses.  
 The remaining money to be allocated is now M~remaining~ + N~remaining~.  
 Call the population of resident members of House "n", P~n~.  
 Call the total CHEA population P~t~.  
