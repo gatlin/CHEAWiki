@@ -2,7 +2,7 @@ We are considering the problem of allocating the annual amount of maintenance mo
 
 #Background
 The maintenance money supplied by NASCO Properties (NP) is divided into two pots: **minor maintenance** and **major maintenance**.  Major maintenance money is generally for larger, more planned projects, and rolls over to your next budget at the end of the year.  Minor maintenance money does not roll over and is "lost" (fear not- it stays within the NASCO co-op system :).  So a good maintenance allocation proposal should attempt to use minor maintenance money first, then major maintenance, since a failure to use all major maintenance money by the end of the year will not cause of loss of that money to CHEA.  
-The system described here divides these two pots of money in a detailed way between the houses.  70% of the money is simply divided on the basis of resident member population (i.e. "per head") with every member of each house receiving an equal allotment.  30% of the money is reserved for emergencies or planned projects later in the budget year.  Due to the peculiarities of major vs. minor pots, the system gets a bit detailed.  These details are given below.  
+The system described here divides these two pots of money in a detailed way between the houses.  **70% of the money is simply divided on the basis of resident member population** (i.e. "per head") with every member of each house receiving an equal allotment.  **30% of the money is reserved for emergencies or planned projects** later in the budget year.  Due to the peculiarities of major vs. minor pots, the system gets a bit detailed.  These details are given below.  
 
 #Exact instructions
 Instructions on how to divide the NP money between N separate CHEA co-ops ("Houses"):  
@@ -10,7 +10,7 @@ Instructions on how to divide the NP money between N separate CHEA co-ops ("Hous
 "M" is the major maintenance portion of T, as specified by NP.  
 "N" is the minor maintenance portion of T, as specified by NP.  
 
-##Step 1 : Set aside as much major maintenance as possible for Planned Projects.  
+##Step 1 : Set aside as much major maintenance as possible for Planned Projects, adding in minor maintenance allocation if needed.  
 If M is 30% or more of T, then M can cover all of the Planned Projects stage. If this is the case:  
 Call the portion of M remaining after allocating 30% of T from it, M~remaining~.  
 Call the portion of N remaining after this N~remaining~.  Since we didn't allocate any minor maintenance money yet, N~remaining~ = N.  We'll use the PlannedProjects subscript to show what we've set aside from each pot for the Planned Projects stage.  
@@ -40,12 +40,10 @@ Minor maintenance money allocated to house n = N~remaining~ * (P~n~ / P~t~)
   
 Note that this process describes allocation (as in budgeting) and does not describe the flow of actual money from the bank accounts.  This system is just to help decide how much of each pot of money the individual houses are entitled to during a given budget year.  
   
-##Details- 70% by "Per Head" allocation (ignores major/minor distinction)
-The total allocation of NP money will be split 70/30. Stage 1 deals with the 70%.  
-This 70% is to be divided between the CHEA houses on a per resident member ("per head") basis, with each resident member receiving the same amount of maintenance allocation assigned to them, regardless of what CHEA property they reside in.  Only resident members will be used in this calculation; associate members or residents who are not members will not be considered. 
-The effect of this is to split the first 70% of the maintenance allocation equally based on resident population of the houses, with more populous houses receiving a larger amount.
+##Details- "Per Head" allocation (ignores major/minor distinction)
+A portion of the total NP money (described above) is to be divided between the CHEA houses on a per resident member ("per head") basis, with each resident member receiving the same amount of maintenance allocation assigned to them, regardless of what CHEA property they reside in.  Only resident members will be used in this calculation; associate members or residents who are not members will not be considered. 
+The effect of this is to split a portion of the maintenance allocation equally based on resident population of the houses, with more populous houses receiving a larger amount.
 
-##Details - 30% by "Planned Project" allocation (ignores major/minor distinction)
-Stage 2 deals with the 30% remaining from the 70/30 split.  
-This 30% is to be divided between the CHEA houses for emergencies or according to projects agreed to each budget cycle by the CHEA Maintenance committee. The CHEA Maintenance Committee will consist of the maintenance coordinator from each house as well as the CHEA Treasurer.  In cases where this produces an even number of members of the Maintenance Committee, the CHEA board will appoint one of its members to the committee to ensure an odd number of members.  Planned Projects will be proposed each year in the final quarter (3 months) of the  budget cycle if the Planned Project allocation has not already been drained by emergency expenses.  Project proposals need clear descriptions and estimates of cost, risks, and duration.  By the budgeting decision deadline of the start of the next budget cycle, the Maintenance Committee will decide what projects to approve for that funding cycle.  
+##Details - "Planned Project" allocation (ignores major/minor distinction)
+A portion of the total NP money is to be divided between the CHEA houses for emergencies or according to projects agreed to each budget cycle by the CHEA Maintenance committee. The CHEA Maintenance Committee will consist of the maintenance coordinator from each house as well as the CHEA Treasurer.  In cases where this produces an even number of members of the Maintenance Committee, the CHEA board will appoint one of its members to the committee to ensure an odd number of members.  Planned Projects will be proposed each year in the final quarter (3 months) of the  budget cycle if the Planned Project allocation has not already been drained by emergency expenses.  Project proposals need clear descriptions and estimates of cost, risks, and duration.  By the budgeting decision deadline of the start of the next budget cycle, the Maintenance Committee will decide what projects to approve for that funding cycle.  
 Any unallocated NP funds for a budget cycle can be split by the "per head" method or saved for a later project at the discretion of the Maintenance Committee, to allow for multi-year project planning.  
