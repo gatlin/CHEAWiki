@@ -12,7 +12,7 @@ This 30% is to be divided between the CHEA houses for emergencies or according t
 Any unallocated NP funds for a budget cycle can be split per the Stage 1 methodology, or saved for a later project, per the discretion of the Maintenance Committee, to allow for multi-year project planning.  
 
 #Background
-The maintenance money supplied by NASCO Properties (NP) is divided into two pots: ***bold** minor maintenance and ***bold** major maintenance.  Major maintenance money is generally for larger, more planned projects, and rolls over to your next budget at the end of the year.  Minor maintenance money does not roll over and is "lost" (fear not- it stays within the NASCO co-op system :).  So a good maintenance allocation proposal should attempt to use minor maintenance money first, then major maintenance, since a failure to use all major maintenance money by the end of the year will not cause of loss of that money to CHEA.  
+The maintenance money supplied by NASCO Properties (NP) is divided into two pots: **minor maintenance** and **major maintenance**.  Major maintenance money is generally for larger, more planned projects, and rolls over to your next budget at the end of the year.  Minor maintenance money does not roll over and is "lost" (fear not- it stays within the NASCO co-op system :).  So a good maintenance allocation proposal should attempt to use minor maintenance money first, then major maintenance, since a failure to use all major maintenance money by the end of the year will not cause of loss of that money to CHEA.  
 
 #Exact verbiage
 Instructions on how to divide the NP money between two CHEA co-ops:  
@@ -20,7 +20,7 @@ Instructions on how to divide the NP money between two CHEA co-ops:
 "M" is the major maintenance portion of T, as specified by NP.
 "N" is the minor maintenance portion of T, as specified by NP.
 
-Step 1) Set aside as much major maintenance as possible for Planned Projects.
+#Step 1 : Set aside as much major maintenance as possible for Planned Projects.  
 If M is 30% or more of T, then reserve all of of M for the Planned Projects stage. Call the portion of M remaining after this, Mr (M remaining). Call the portion of N remaining after this Nr.  Since we didn't allocate any minor maintenance money yet, Nr = N.  
 Mr = M - (0.3 * T) and Nr = N.  
 Let S2 be the amount of money set aside for Stage 2.
@@ -31,11 +31,12 @@ Mr = 0
 Nr = N - ((0.3 * T) - M)  
 Remember that Planned Projects stage money is allocated for later in the year, and contended for by both houses, through an application process.  Thus, it does not get divided yet between the houses; it just gets set aside right now.
 
-Step 2) Allocate the remaining Stage 1 money "per head" between the houses.  The remaining money to be allocated is now Mr + Nr.  
+#Step 2 : Allocate the remaining Stage 1 money "per head" between the houses.  
+The remaining money to be allocated is now Mr + Nr.  
 Call the population of resident members of House "n", Pn.  
 Call the total CHEA population Pt.  
-Pt = P1 + P2 + ... + Pn
-Major maintenance money allocated to house n = (Pn / Pt) * Mr
-Minor maintenance money allocated to house n = (Pn / Pt) * Nr
-
+Pt = P1 + P2 + ... + Pn  
+Major maintenance money allocated to house n = (Pn / Pt) * Mr    
+Minor maintenance money allocated to house n = (Pn / Pt) * Nr  
+  
 Note that this process describes allocation (as in budgeting) and does not describe the flow of actual money from the bank accounts.  This system is just to help decide how much of each pot of money the individual houses are entitled to during a given budget year.
