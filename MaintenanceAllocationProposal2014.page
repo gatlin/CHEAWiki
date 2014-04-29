@@ -12,7 +12,8 @@ Instructions on how to divide the NP money between N separate CHEA co-ops ("Hous
 
 ##Step 1 : Set aside as much major maintenance as possible for Planned Projects.  
 If M is 30% or more of T, then reserve all of of M for the Planned Projects stage. Call the portion of M remaining after this, M~remaining~. Call the portion of N remaining after this N~remaining~.  Since we didn't allocate any minor maintenance money yet, N~remaining~ = N.  
-M~remaining~ = M - (0.3 * T) and N~remaining~ = N.  
+M~remaining~ = M - (0.3 * T)  
+N~remaining~ = N.  
   
 If M is less than 30% of T, then reserve all of M, plus as much of N as necessary for Stage 2 (the 30% Planned Projects stage).  In this case, M~remaining~ will be 0 because there is no major maintenance money remaining.  The allocation of N will then be (0.3 * T) - M.  Call the remaining amount of minor maintenance money N~remaining~.  
 M~remaining~ = 0  
