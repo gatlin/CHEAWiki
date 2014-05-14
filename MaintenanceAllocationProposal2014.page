@@ -11,7 +11,7 @@ Instructions on how to divide the NP money between N separate CHEA co-ops ("Hous
 "N" is the minor maintenance portion of T, as specified by NP.  
 
 ##Step 1 : Set aside as much major maintenance as possible for Planned Projects, adding in minor maintenance allocation if needed.  
-If M is 30% or more of T, then M can cover all of the Planned Projects stage. If this is the case:  
+M is assumed to be 30% or more of T, so M can cover all of the Planned Projects stage.
 Call the portion of M remaining after allocating 30% of T from it, M~remaining~.  
 Call the portion of N remaining after this N~remaining~.  Since we didn't allocate any minor maintenance money yet, N~remaining~ = N.  We'll use the PlannedProjects subscript to show what we've set aside from each pot for the Planned Projects stage.  
 M~PlannedProjects~ = 0.3 * T  
@@ -19,14 +19,6 @@ N~PlannedProjects~ = 0
   
 M~remaining~ = M - M~PlannedProjects~  
 N~remaining~ = N  
-  
-  
-This case shouldn't generally happen, but if M is less than 30% of T, then reserve all of M, plus as much of N as necessary for Stage 2 (the 30% Planned Projects stage).  In this case, M~remaining~ will be 0 because there is no major maintenance money remaining.  The allocation of N will then be (0.3 * T) - M.  
-M~PlannedProjects~ = M  
-N~PlannedProjects~ = ((0.3 * T) - M)  
-
-M~remaining~ = 0  
-N~remaining~ = N - N~PlannedProjects~  
   
 Remember that Planned Projects stage money is allocated for later in the year, and contended for by both houses, through an application process.  Thus, it does not get divided yet between the houses; it just gets set aside right now.  
 
