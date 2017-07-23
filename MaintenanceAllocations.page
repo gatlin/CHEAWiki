@@ -5,7 +5,7 @@ The maintenance money supplied by NASCO Properties (NP) is divided into two pots
 The system described here divides these two pots of money in a detailed way between the houses.  **70% of the money is simply divided on the basis of resident member population** (i.e. "per head") with every member of each house receiving an equal allotment.  **30% of the money is reserved for emergencies or planned projects** later in the budget year.  Due to the peculiarities of major vs. minor pots, the system gets a bit detailed.  These details are given below.  
 
 #Exact instructions
-Instructions on how to divide the NP money between N separate CHEA co-ops ("Houses"):  
+Instructions on how to divide the NP money between H separate CHEA co-ops ("Houses"):  
 "T" is the total amount of money provided by NP.  
 "M" is the major maintenance portion of T, as specified by NP.  
 "N" is the minor maintenance portion of T, as specified by NP.  
@@ -22,11 +22,11 @@ Remember that Planned Projects stage money is allocated for later in the year, a
 
 ##Step 2 : Allocate the remaining money "per head" between the houses.  
 The remaining money to be allocated is now M~remaining~ + N.  
-Call the population of resident members of House "n", P~n~.  
+Call the population of resident members of House "h", P~h~.  
 Call the total CHEA population P~t~.  
-P~t~ = P~1~ + P~2~ + ... + P~n~  
-Major maintenance money allocated to house n = M~remaining~ * (P~n~ / P~t~)      
-Minor maintenance money allocated to house n = N * (P~n~ / P~t~)  
+P~t~ = P~1~ + P~2~ + ... + P~h~  
+Major maintenance money allocated to house n = M~remaining~ * (P~h~ / P~t~)      
+Minor maintenance money allocated to house n = N * (P~h~ / P~t~)  
   
 Note that this process describes allocation (as in budgeting) and does not describe the flow of actual money from the bank accounts.  This system is just to help decide how much of each pot of money the individual houses are entitled to during a given budget year.  
   
