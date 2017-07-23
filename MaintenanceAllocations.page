@@ -25,8 +25,8 @@ The remaining money to be allocated is now M~remaining~ + N.
 Call the population of resident members of House "h", P~h~.  
 Call the total CHEA population P~t~.  
 P~t~ = P~1~ + P~2~ + ... + P~h~  
-Major maintenance money allocated to house n = M~remaining~ * (P~h~ / P~t~)      
-Minor maintenance money allocated to house n = N * (P~h~ / P~t~)  
+Major maintenance money allocated to house h = M~remaining~ * (P~h~ / P~t~)      
+Minor maintenance money allocated to house h = N * (P~h~ / P~t~)  
   
 Note that this process describes allocation (as in budgeting) and does not describe the flow of actual money from the bank accounts.  This system is just to help decide how much of each pot of money the individual houses are entitled to during a given budget year.  
   
