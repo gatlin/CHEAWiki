@@ -17,11 +17,11 @@ The first step is uploading the minutes file on the [_upload]() page:
 
 When the upload is finished you'll be presented with a short snippet of text. That text is a link that the wiki software can use to link to the minutes.
 
-For example, if you uploaded a file for February 27, 2017 minutes called `02.27.17.docx` then the link will be `[02.27.17.docx](/02.27.17.docx)`. [^1]
-
 ![The screen you see after uploading a file to the wiki.](/chea_minutes_image_2.png)
 
-Copy that link!
+For example, if you uploaded a file for February 27, 2017 minutes called `02.27.17.docx` then the link will be `[link label](/02.27.17.docx)`.
+
+Copy that link and move on to the next step! You're doing great!
 
 # Editing the Minutes page
 
@@ -29,11 +29,10 @@ With your link in hand, head over to the [Minutes]() page and select the `Edit` 
 
 ![An image of the Minutes page edit form, before being edited](/chea_minutes_image_3.png)
 
-Paste the link in at the top and put something simple in the "Description of changes" field, like so
+Paste the link in at the top and put something simple in the "Description of changes" field and edit the `link label`, like so
 
 ![The Minutes page edit form, with the new link pasted in at the top and a simple description of the changes made in the "Description of changes" field.](/chea_minutes_image_4.png)
 
+Note that you can put anything you want in place of `link label`. At the time of writing the format is `MM.DD.YY`.
 
 # And that's it!
-
-[^1]: You can actually change the first part between the `[` and `]` to say anything you want, like `[Minutes for 2 February, 2017](/02.27.17)`.
