@@ -15,7 +15,7 @@ The first step is uploading the minutes file on the [_upload]() page:
 
 (Note that you'll need to put something in the "Description of content or changes" field. This wiki is very big on accountability.)
 
-When the upload is finished you'll be presented with a short snippet of text. That text is a link that the wiki software can use to link to the minutes.
+When the upload is finished you'll be presented with a short snippet of text. That text is a link that the wiki software can use to link to the minutes.[^1]
 
 ![The screen you see after uploading a file to the wiki.](/chea_minutes_image_2.png)
 
@@ -23,7 +23,7 @@ For example, if you uploaded a file of the July 12, 2017 minutes called `07.12.1
 
 Copy that link and move on to the next step! You're doing great!
 
-# Editing the Minutes page
+# Edit the Minutes page
 
 With your link in hand, head over to the [Minutes]() page and select the `Edit` tab at the top. You should see this:
 
@@ -36,3 +36,6 @@ Paste the link in at the top and put something simple in the "Description of cha
 Note that you can put anything you want in place of `link label`. At the time of writing the format is `MM.DD.YY`.
 
 # And that's it!
+
+[^1]:
+  Basically if you upload a file `filename.extension` it'll be available at `https://chea.coop/filename.extension`. The way you format links is `[text of the link](URL of the link)`. So `[07.12.17](/07.12.17.pdf)` isn't magical or anything, it's just literally a link to the minutes document.
