@@ -1,0 +1,40 @@
+---
+title: How to add minutes
+...
+
+Adding minutes to the wiki may not be obvious at first, but it makes sense once you know what to do. There are basically two steps:
+
+1. Upload the minutes document
+2. Link to the minutes file from the [Minutes]() page.
+
+# Uploading minutes document
+
+The first step is uploading the minutes file on the [_upload]() page:
+
+![Picture of the wiki's file upload form.](/chea_wiki_upload_form.png)
+
+(Note that you'll need to put something in the "Description of content or changes" field. This wiki is very big on accountability.)
+
+When the upload is finished you'll be presented with a short snippet of text. That text is a link that the wiki software can use to link to the minutes.
+
+For example, if you uploaded a file for February 27, 2017 minutes called `02.27.17.docx` then the link will be `[02.27.17.docx](/02.27.17.docx)`. [^1]
+
+![The screen you see after uploading a file to the wiki.](/chea_wiki_add_minutes_1.png)
+
+Copy that link!
+
+# Editing the Minutes page
+
+With your link in hand, head over to the [Minutes]() page and select the `Edit` tab at the top. You should see this:
+
+![An image of the Minutes page edit form, before being edited](/chea_minutes_edit_1.png)
+
+Paste the link in at the top and put something simple in the "Description of changes" field, like so
+
+![The Minutes page edit form, with the new link pasted in at the top and a simple description of the changes made in the "Description of changes" field.](/chea_minutes_edit_2.png)
+
+***
+
+And that's it!
+
+[^1]: You can actually change the first part between the `[` and `]` to say anything you want, like `[Minutes for 2 February, 2017](/02.27.17)`.
