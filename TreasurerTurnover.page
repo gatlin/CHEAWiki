@@ -4,6 +4,19 @@ title: Treasurer Turnover
 
 There are a handful of tasks to be performed when transitioning from one Board Treasurer to another.
 
+# Paying the NP Lease and Loan
+
+Because CHEA and NP use different credit unions, the Velocity web interface will only permit transactions under a certain amount (assumed to be around $9k). Thus payments are split up.
+
+To make matters more confusing you can't send transactions of the same amount in succession. In practice this means I usually send:
+
+1. A payment of $7000.00
+2. A payment of $7000.01
+3. `Lease Payment - (14000.01)`
+4. The loan payment (usually about $182).
+
+This usually cuts it.
+
 # Bank Accounts
 
 The outgoing treasurer must be taken off all CHEA accounts, including house accounts. The incoming treasurer needs to be added to all relevant accounts. See the [Bylaws]() Section 8 for more information.
