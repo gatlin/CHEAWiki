@@ -17,6 +17,36 @@ To make matters more confusing you can't send transactions of the same amount in
 
 This usually cuts it.
 
+# NASCO Properties Invoices
+
+## Background
+
+As you are (hopefully) aware, CHEA cooperatively owns NASCO Properties along with other coops around the continent, and NASCO Properties in turn actually has the titles to our houses. We pay them every month and in exchange NP helps us with accounting, maintenance, cooperative skills training, and a host of other good things.
+
+We typically receive two invoices on the 1st of each month: one for a **lease payment**, and one for a **loan** that CHEA took out.
+
+## How do I find them?
+
+**Before March 2018**: Search for `NP lease invoice` or `NP loan invoice` in the treasurer mail account.
+
+**March 2018 and after**: Search for `intuit loan nasco properties` in the treasurer mail account.
+
+Yes, there should be folders for these. No, there aren't any.
+
+## Can I get an itemized breakdown of the invoices?
+
+Yup! You'll get an email which looks like this:
+
+![Typical Intuit invoice email for NP lease payments.](/CHEA_invoice_howto_1.png)
+
+Clicking on it takes you to a page like this:
+
+![Example of the itemized breakdown of the invoice on Intuit's website after clicking the button in the email.](/CHEA_invoice_howto_2.png) 
+
+On this page you can see invoice detail. Also, make sure you're logged in (and to the correct account; one treasurer almost bankrupted himself by not paying close enough attention).
+
+Typically the loan payments are sent as replies to the lease payments, but make doubly sure.
+
 # Bank Accounts
 
 The outgoing treasurer must be taken off all CHEA accounts, including house accounts. The incoming treasurer needs to be added to all relevant accounts. See the [Bylaws]() Section 8 for more information.
